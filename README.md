@@ -1,0 +1,1 @@
+# wp-jobs-manager-parse-server-plugin
